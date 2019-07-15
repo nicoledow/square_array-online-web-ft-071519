@@ -7,4 +7,5 @@ def square_array(array)
    
   # squared << (element * element)
   #end
+  squared
 end
